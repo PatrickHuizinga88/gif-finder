@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/gif-finder/static/css/main.b92e1391.chunk.css",
-    "main.js": "/gif-finder/static/js/main.499c2cc4.chunk.js",
-    "main.js.map": "/gif-finder/static/js/main.499c2cc4.chunk.js.map",
-    "runtime-main.js": "/gif-finder/static/js/runtime-main.1083ba09.js",
-    "runtime-main.js.map": "/gif-finder/static/js/runtime-main.1083ba09.js.map",
-    "static/js/2.d152787c.chunk.js": "/gif-finder/static/js/2.d152787c.chunk.js",
-    "static/js/2.d152787c.chunk.js.map": "/gif-finder/static/js/2.d152787c.chunk.js.map",
-    "static/js/3.5a0b0b33.chunk.js": "/gif-finder/static/js/3.5a0b0b33.chunk.js",
-    "static/js/3.5a0b0b33.chunk.js.map": "/gif-finder/static/js/3.5a0b0b33.chunk.js.map",
+    "main.css": "/gif-finder/static/css/main.0bcb1f2a.chunk.css",
+    "main.js": "/gif-finder/static/js/main.05a36960.chunk.js",
+    "main.js.map": "/gif-finder/static/js/main.05a36960.chunk.js.map",
+    "runtime-main.js": "/gif-finder/static/js/runtime-main.ff3ce065.js",
+    "runtime-main.js.map": "/gif-finder/static/js/runtime-main.ff3ce065.js.map",
+    "static/js/2.260e1440.chunk.js": "/gif-finder/static/js/2.260e1440.chunk.js",
+    "static/js/2.260e1440.chunk.js.map": "/gif-finder/static/js/2.260e1440.chunk.js.map",
+    "static/js/3.c2636604.chunk.js": "/gif-finder/static/js/3.c2636604.chunk.js",
+    "static/js/3.c2636604.chunk.js.map": "/gif-finder/static/js/3.c2636604.chunk.js.map",
     "index.html": "/gif-finder/index.html",
-    "static/css/main.b92e1391.chunk.css.map": "/gif-finder/static/css/main.b92e1391.chunk.css.map",
-    "static/js/2.d152787c.chunk.js.LICENSE.txt": "/gif-finder/static/js/2.d152787c.chunk.js.LICENSE.txt"
+    "static/css/main.0bcb1f2a.chunk.css.map": "/gif-finder/static/css/main.0bcb1f2a.chunk.css.map",
+    "static/js/2.260e1440.chunk.js.LICENSE.txt": "/gif-finder/static/js/2.260e1440.chunk.js.LICENSE.txt",
+    "static/media/logo_white.0d787533.png": "/gif-finder/static/media/logo_white.0d787533.png",
+    "static/media/main.scss": "/gif-finder/static/media/rainbow_gradient.fa66324b.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.1083ba09.js",
-    "static/js/2.d152787c.chunk.js",
-    "static/css/main.b92e1391.chunk.css",
-    "static/js/main.499c2cc4.chunk.js"
+    "static/js/runtime-main.ff3ce065.js",
+    "static/js/2.260e1440.chunk.js",
+    "static/css/main.0bcb1f2a.chunk.css",
+    "static/js/main.05a36960.chunk.js"
   ]
 }
