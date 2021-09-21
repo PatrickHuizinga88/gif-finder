@@ -1,10 +1,21 @@
-import React from 'react'
+import { TwitterIcon, TwitterShareButton, WhatsappShareButton } from "react-share"
+import { WhatsappIcon } from "react-share"
 
-const Gif = ({url}) => {
+const Gif = ({gif, embed}) => {
     return (
-        <>
-            <img src={url}/>
-        </>
+        <div className="gif-container">
+            <img 
+                className="gif" 
+                src={gif} 
+                alt="gif"
+            />
+            <div className="overlay">
+                {/* <p>Share:</p> */}
+                <WhatsappShareButton url={embed}>
+                    <WhatsappIcon size={35} />
+                </WhatsappShareButton>
+            </div>
+        </div>
     )
 }
 
